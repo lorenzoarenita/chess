@@ -1,0 +1,1 @@
+<Spanish project documentation for Cute Chess, Lumi, setup, testing, APK build, release signing, and limitations>

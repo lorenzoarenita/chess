@@ -1,0 +1,1 @@
+<Smoke tests for startup, navigation to lessons and free play, and responsive layout>
