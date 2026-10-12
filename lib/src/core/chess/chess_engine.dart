@@ -1,0 +1,1 @@
+<Domain engine for move validation, check, checkmate, stalemate, castling, en passant, promotion, and illegal-move prevention>

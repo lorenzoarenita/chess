@@ -1,0 +1,1 @@
+<Local persistence for completed lessons, challenges, preferences, and last section>

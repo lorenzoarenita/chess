@@ -1,0 +1,1 @@
+<Automated tests for piece movement, checks, castling, en passant, promotion, mate, stalemate, and illegal moves>
